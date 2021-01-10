@@ -1,6 +1,6 @@
 var data = [{
   greekName: "Amphitrite",
-  greekSearchResults: 3870000,
+  greekSearchResults: 387000,
   pair: "Amphitrite-Salacia",
   romanName: "Salacia",
   romanSearchResults: 47500
